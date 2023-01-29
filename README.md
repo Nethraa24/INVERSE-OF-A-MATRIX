@@ -16,6 +16,8 @@ print the result
 
 ## Program:
 ```
+##Program Developed by: J.Nethraa
+  Reference no.:22006789
 import numpy as np
 A=([[2,1,1],[1,1,1],[1,-1,2]])
 inverse=np.linalg.inv(A)
